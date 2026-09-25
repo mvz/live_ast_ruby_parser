@@ -20,6 +20,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency "ruby_parser", "~> 3.2.2"
   spec.add_dependency "ruby2ruby", "~> 2.0.6"
 
-  spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
 end
